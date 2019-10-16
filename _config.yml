@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Ghazal Bakhshande"
-  avatar           : "C:\Users\asus\Documents/IMG_20181018_005641.jpg"
+  avatar           : assets/images/ghazal.jpg
   bio              :"computer student at iust.
   I like math,
   programming,skating & playing guitar"
