@@ -1,16 +1,13 @@
 ---
 layout: posts
-title: My new picture
+title: programming
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## 
+I like it..:)
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+
+![alt text](../assets/images/7.jpg "Team Picture")
 
 ---
-**Test**: This is atest
+****
