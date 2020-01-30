@@ -18,7 +18,10 @@ gallery:
     title: "Image 8 title caption"  
 ---
 
-![image 1](../assets/images/1.jpg "v")
+![image 1](../assets/images/1.jpg "a")
+![image 2](../assets/images/2.jpg "b")
+![image 3](../assets/images/3.jpg "c")
+![image 4](../assets/images/4.jpg "d")
 
 ---
 ****
