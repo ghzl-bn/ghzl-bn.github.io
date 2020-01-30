@@ -10,6 +10,8 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* whatching movies
+playing guitar
+playing skate
 
 
