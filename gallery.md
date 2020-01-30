@@ -18,5 +18,13 @@ gallery:
     title: "Image 8 title caption"  
 ---
 
+## 
+just a moment...think about it.
+
+![alt text](../assets/images/6.jpg "Team Picture")
+
+---
+****
+
 {% include gallery caption="" %}
 
