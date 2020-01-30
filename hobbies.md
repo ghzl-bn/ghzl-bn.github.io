@@ -10,8 +10,8 @@ comments: false
 ---
 
 
-* whatching movies
-playing guitar
-playing skate
+* whatching movies 
+* playing guitar
+* playing skate
 
 
