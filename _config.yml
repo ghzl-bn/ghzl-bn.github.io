@@ -136,7 +136,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-      - label: "Calendly"
+    - label: "Calendly"
       icon: "fab fa-fw fa-calendly"
       # url: "https://calendly.com/"
 
