@@ -15,6 +15,16 @@ To create an account:<br><br>
 ![alt text](../assets/images/9.jpg "Team Picture")<br>
 * The sign-up form will appear. Follow the directions by entering the required information.<br>
 ![alt text](../assets/images/10.jpg "Team Picture")<br>
-
+* Next, enter your phone number to verify your account. Google uses a two-step verification process for your security.<br>
+![alt text](../assets/images/11.jpg "Team Picture")<br>
+* You will receive a text message from Google with a verification code. Enter the code to complete the account verification.<br>
+![alt text](../assets/images/12.jpg "Team Picture")<br>
+* Next, you will see a form to enter some of your personal information, like your name and birthday.<br>
+![alt text](../assets/images/13.jpg "Team Picture")<br>
+* Review Google's Terms of Service and Privacy Policy, then click I agree.<br>
+![alt text](../assets/images/14.jpg "Team Picture")<br>
+* Your account will be created.
+![alt text](../assets/images/15.jpg "Team Picture")<br>
+Just like with any online service, it's important to choose a strong password—in other words, one that is difficult for someone else to guess. For more information, review our lesson on creating strong passwords.
 ---
 ****
