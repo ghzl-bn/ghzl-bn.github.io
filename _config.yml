@@ -112,7 +112,7 @@ author:
   bio              : "computer student at iust. I like math, programming,skating & playing guitar"                     
   location         : "tehran"
   email            : Ghazal.best76@gmail.com
-  twitter: 
+  calendly: calendar/r?pli=1
   linkedin: ghazal-bakhshande-6b229a195
   google_scholar: 
   github: ghazalbn
@@ -136,6 +136,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+      - label: "Calendly"
+      icon: "fab fa-fw fa-calendly"
+      # url: "https://calendar.google.com/"
 
 # Site Footer
 footer:
@@ -157,6 +160,9 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      # url:
+    - label: "Calendly"
+      icon: "fab fa-fw fa-calendly"
       # url:
 
 
