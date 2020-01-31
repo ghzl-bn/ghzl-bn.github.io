@@ -2,7 +2,7 @@
 layout: posts
 title: How to Setting Up a Gmail Account
 ---
-Introduction<br><br>
+<br>Introduction<br><br>
 Setting up a Gmail account is easy. You will begin by creating a Google account, and  during the quick sign-up process you will choose your Gmail account name. In this lesson, we'll show you how to set up your Google account for Gmail, add and edit contacts, and edit your mail settings.<br><br>
 
 Setting up a Gmail account<br><br>
