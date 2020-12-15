@@ -9,11 +9,11 @@ comments: true
 ---
 
 ### Best Friends
-* sahar
-* sara
-* bahar
-* maede
-* zahra
+* Sahar S.
+* Sara S.
+* Bahar A.
+* Maede R.
+* Hanie Y.
 
 
 

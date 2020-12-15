@@ -12,6 +12,6 @@ comments: false
 
 * whatching movies 
 * playing guitar
-* playing skate
+* skating
 
 
